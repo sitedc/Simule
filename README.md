@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="pt-BR">
 <head>
   <meta charset="UTF-8" />
@@ -338,7 +338,7 @@
         `⏳ *Previsão:* ${previsaoSelect.value}`;
 
       // Abre WhatsApp
-      window.open(`https://api.whatsapp.com/send?phone=5586999951202&text=${msg}`, '_blank');
+      window.open(`https://api.whatsapp.com/send?phone=5598986261538&text=${msg}`, '_blank');
     });
   </script>
 </body>
